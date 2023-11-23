@@ -1,4 +1,4 @@
-console.log("run");
+console.log("running");
 
 let port = process.env.PORT || 5000;
 console.log(port);
